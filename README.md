@@ -1,16 +1,11 @@
 # anime_verse
 
-A new Flutter project.
+# 1. Identitas
 
-## Getting Started
+Name: Vuitton Varian Utomo
+NIM: 231401063
+Program: Ilmu Komputer
+Mata Kuliah Praktikum Pemrograman Mobile Lab 5
 
-This project is a starting point for a Flutter application.
+# 2. Project Description
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
