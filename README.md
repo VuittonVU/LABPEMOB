@@ -40,7 +40,7 @@ AnimeVerse merupakan aplikasi katalog anime yang berfungsi sebagai platform untu
 # 4. Link Demo Aplikasi dari YT
 https://youtu.be/f7Se6iLvYlo
 
-$ 5. Tools
+# 5. Tools
 - Flutter (Dart) memakai Android Studio / IDE lainnya
 - Firebase Authentication
 - Firebase Firestore
